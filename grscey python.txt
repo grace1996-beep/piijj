@@ -1,0 +1,5 @@
+#changing pounds to kilogram
+pounds=(float(input('enter value in pounds:"))
+conv_fac=0.45
+kilograms=(300*0.45)
+print(kilograms)
